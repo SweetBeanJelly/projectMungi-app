@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_diary"
+        android:icon="@drawable/ic_diary"
+        android:title="@string/title_diary"
+        android:enabled="true"/>
+
+    <item
+        android:id="@+id/navigation_alarm"
+        android:icon="@drawable/ic_alarm"
+        android:title="@string/title_alarm"
+        android:enabled="true"/>
+
+    <item
+        android:id="@+id/navigation_timetable"
+        android:icon="@drawable/ic_timetable"
+        android:title="@string/title_timetable"
+        android:enabled="true"/>
+
+</menu>

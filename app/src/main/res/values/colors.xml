@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="DarkGray">#232323</color>
+    <color name="Gray">#FFA7A7A7</color>
+
+    <color name="MINtemperature">#4aaeff</color>
+    <color name="MAXtemperature">#ff4a4a</color>
+
+    <color name="finedust1">#54be2e</color>
+    <color name="finedust2">#ffd644</color>
+    <color name="finedust3">#d22c23</color>
+
+    <color name="graph_finedust1">#FFFFFF</color> <!--아주좋음-->
+    <color name="graph_finedust2">#6cb8e4</color> <!--좋음-->
+    <color name="graph_finedust3">#80d93b</color> <!--양호-->
+    <color name="graph_finedust4">#fae43a</color> <!--보통-->
+    <color name="graph_finedust5">#fdb925</color> <!--조금나쁨-->
+    <color name="graph_finedust6">#ff7930</color> <!--나쁨-->
+    <color name="graph_finedust7">#ef2a20</color> <!--아주나쁨-->
+    <color name="graph_finedust8">#630500</color> <!--최악-->
+</resources>

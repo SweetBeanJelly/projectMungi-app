@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">내일 더 맑음</string>
+
+    <string name="title_today">오늘의 맑음</string>
+    <string name="title_weeks">주간 맑음</string>
+    <string name="title_reference">더보기</string>
+
+    <string name="title_diary">다이어리</string>
+    <string name="title_alarm">알람</string>
+    <string name="title_timetable">시간표</string>
+</resources>

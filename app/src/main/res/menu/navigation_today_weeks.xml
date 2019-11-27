@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_today"
+        android:icon="@drawable/ic_today"
+        android:title="@string/title_today"
+        android:enabled="true"/>
+
+    <item
+        android:id="@+id/navigation_weeks"
+        android:icon="@drawable/ic_weeks"
+        android:title="@string/title_weeks"
+        android:enabled="true"/>
+
+    <item
+    android:id="@+id/navigation_reference"
+    android:icon="@drawable/ic_more"
+    android:title="@string/title_reference"
+    android:enabled="true"/>
+
+</menu>
